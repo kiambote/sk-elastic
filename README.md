@@ -6,4 +6,4 @@ It is a docker swarm cluster that is orcherstaing a RTMP Streaming server on top
 or any other cloud provider.
 
 This app should be able to understand how to scale, vertical scale is going to depend on the amount of containers,\
-the number of containers is part of the input. And the horizontal scale is going to depend on resources of the nodes that running.\
+the number of containers is part of the input. And the horizontal scale is going to depend on resources of the nodes that running.
