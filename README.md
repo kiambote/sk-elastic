@@ -5,5 +5,5 @@ The goal of this project is to smartly scale (Vertically and Horizontally) up an
 It is a docker swarm cluster that is orcherstaing a RTMP Streaming server on top of Digital Ocean Droplets\
 or any other cloud provider.
 
-This app should be able to understand how to scale, vertical scale is going to depend on the amount of containers,\
-the number of containers is part of the input. And the horizontal scale is going to depend on resources of the nodes that running.
+This app should be able to understand how to scale, vertical scalling is going to depend on the amount of containers,\
+the number of containers is part of the input. And the horizontal scale is going to depend on resources of the nodes that are running.
